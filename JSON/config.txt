@@ -1,0 +1,4 @@
+host = localhost
+user = user
+password = 1234
+database = rizzato_filippo_API
